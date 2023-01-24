@@ -44,7 +44,7 @@ const SearchExercises = ({bodyPart, setBodyPart, setExercises}) => {
             sx={{fontSize:{lg: '44px', xs:'30px'}}}
             mb='40px'
             textAlign='center'>
-            Awesome Exercise You <br/> Should know
+            Awesome Exercises You <br/> Should know
         </Typography>
         <Box
             position='relative'
